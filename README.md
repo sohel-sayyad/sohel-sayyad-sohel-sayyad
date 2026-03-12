@@ -1,5 +1,4 @@
 # sohel-sayyad-sohel-sayyad
-# Hi, I'm Sohel Sayyad 👋
 
 IAM & Microsoft Identity Engineer | Azure AD | Microsoft 365 | SailPoint (Learning)
 
